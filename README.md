@@ -4,7 +4,7 @@ This project contains a 3D model of **Reshiram**, created using **Blender**.
 
 ## 🖼 Render Preview
 
-![Reshiram Rendered Image](https://raw.githubusercontent.com/htyffn/Reshiram-Blender/main/ReshiramRender.png)
+![Reshiram Rendered Image](ReshiramRender.png)
 
 ## 📁 Files Included
 
