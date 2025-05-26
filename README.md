@@ -1,21 +1,17 @@
-# Reshiram-Blender
+# Reshiram Blender
 
-This project contains a 3D model of **Reshiram**, created using **Blender**.
+This project contains a 3D model of **Reshiram**, created using only **Blender**.
 
-## 🖼 Render Preview
+This is a personal 3D modeling project focused on creating the Pokémon **Reshiram** using Blender. It includes basic modeling, texturing, and rendering.
+
+## Render Preview
 
 ![Reshiram Rendered Image](ReshiramRender.png)
 
-## 📁 Files Included
+## Files Included
 
 - `Reshiram.blend`: The original Blender project file.
 - `ReshiramRender.png`: A rendered image of the Reshiram model.
-
-## 🎨 About the Project
-
-This is a personal 3D modeling project focused on creating the Pokémon **Reshiram** from scratch using Blender. It includes basic modeling, texturing, and rendering.
-
-Feel free to explore, give feedback, or use it as a learning reference.
 
 ---
 
